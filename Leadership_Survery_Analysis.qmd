@@ -1,0 +1,19 @@
+---
+title: "360 Assessment Report: Richard"
+subtitle: "Group and Category Breakdown"
+author: "Data Analysis"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    code-fold: true
+---
+# Overall Group Averages
+
+## Strategic and Future-Focused Leadership
+
+This section compares the average scores across four strategic groups, excluding Richard's self-assessment.
+
+::: {layout-ncol="2"}
+
+![]({{< var radar_strategic_no_me_unwrapped_radar_chart_unwrapped.png >}}){#fig-radar-strategic-ext caption="Strategic Groups: External Responder Averages"}
