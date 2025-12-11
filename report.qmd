@@ -4,6 +4,7 @@ subtitle: "Group and Category Breakdown"
 author: "Data Analysis"
 format:
   html:
+    embed-resources: true
     toc: true
     toc-depth: 2
     code-fold: true
